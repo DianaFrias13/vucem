@@ -1,0 +1,402 @@
+C:\vucemDiana\VUCEMcode\Vucem_EEA\obj\Debug\Vucem_EEA.csprojAssemblyReference.cache
+C:\vucemDiana\VUCEMcode\Vucem_EEA\obj\Debug\Vucem_EEA.csproj.CoreCompileInputs.cache
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\Vucem_EEA.dll.config
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\Vucem_EEA.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\Vucem_EEA.pdb
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\csc.exe
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\csc.exe.config
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\csc.rsp
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\csi.exe
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\csi.exe.config
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\csi.rsp
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.AppContext.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Collections.Immutable.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Console.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Globalization.Calendars.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.IO.Compression.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.IO.FileSystem.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Net.Http.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Net.Sockets.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Reflection.Metadata.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.ValueTuple.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Xml.XPath.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\vbc.exe
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\vbc.exe.config
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\vbc.rsp
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\VBCSCompiler.exe
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\roslyn\VBCSCompiler.exe.config
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\Antlr3.Runtime.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\AspNet.ScriptManager.jQuery.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\Business_.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\Microsoft.Web.Infrastructure.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\Newtonsoft.Json.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\System.Web.Optimization.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\UserModels.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\WebGrease.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\Business_.pdb
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\UserModels.pdb
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\System.Web.Optimization.xml
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\Newtonsoft.Json.xml
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\Antlr3.Runtime.pdb
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\es\System.Web.Optimization.resources.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\obj\Debug\Vucem_EEA.csproj.CopyComplete
+C:\vucemDiana\VUCEMcode\Vucem_EEA\obj\Debug\Vucem_EEA.dll
+C:\vucemDiana\VUCEMcode\Vucem_EEA\obj\Debug\Vucem_EEA.pdb
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\Vucem_EEA.dll.config
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\Vucem_EEA.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\Vucem_EEA.pdb
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\csc.exe
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\csc.exe.config
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\csc.rsp
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\csi.exe
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\csi.exe.config
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\csi.rsp
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.AppContext.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Collections.Immutable.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Console.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Globalization.Calendars.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.IO.Compression.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.IO.FileSystem.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Net.Http.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Net.Sockets.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Reflection.Metadata.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.ValueTuple.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Xml.XPath.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\vbc.exe
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\vbc.exe.config
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\vbc.rsp
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\VBCSCompiler.exe
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\roslyn\VBCSCompiler.exe.config
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\Antlr3.Runtime.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\AspNet.ScriptManager.jQuery.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\Business_.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\Microsoft.Web.Infrastructure.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\Newtonsoft.Json.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\System.Web.Optimization.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\UserModels.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\WebGrease.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\Business_.pdb
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\UserModels.pdb
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\System.Web.Optimization.xml
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\Newtonsoft.Json.xml
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\Antlr3.Runtime.pdb
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\es\System.Web.Optimization.resources.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\obj\Debug\Vucem_EEA.csprojAssemblyReference.cache
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\obj\Debug\Vucem_EEA.csproj.CoreCompileInputs.cache
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\obj\Debug\Vucem_EEA.csproj.CopyComplete
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\obj\Debug\Vucem_EEA.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\obj\Debug\Vucem_EEA.pdb
+C:\GSC ESTADÍAS\GITHUB VUCEM\Vucem_EEA\bin\AjaxControlToolkit.dll
+C:\VUCEMM\Vucem_EEA\obj\Debug\Vucem_EEA.csprojAssemblyReference.cache
+C:\VUCEMM\Vucem_EEA\obj\Debug\Vucem_EEA.csproj.CoreCompileInputs.cache
+C:\VUCEMM\Vucem_EEA\obj\Debug\Vucem_EEA.dll
+C:\VUCEMM\Vucem_EEA\obj\Debug\Vucem_EEA.pdb
+C:\VUCEMM\Vucem_EEA\bin\Vucem_EEA.dll.config
+C:\VUCEMM\Vucem_EEA\bin\Vucem_EEA.dll
+C:\VUCEMM\Vucem_EEA\bin\Vucem_EEA.pdb
+C:\VUCEMM\Vucem_EEA\bin\roslyn\csc.exe
+C:\VUCEMM\Vucem_EEA\bin\roslyn\csc.exe.config
+C:\VUCEMM\Vucem_EEA\bin\roslyn\csc.rsp
+C:\VUCEMM\Vucem_EEA\bin\roslyn\csi.exe
+C:\VUCEMM\Vucem_EEA\bin\roslyn\csi.exe.config
+C:\VUCEMM\Vucem_EEA\bin\roslyn\csi.rsp
+C:\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.AppContext.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Collections.Immutable.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Console.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Globalization.Calendars.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.IO.Compression.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.IO.FileSystem.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Net.Http.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Net.Sockets.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Reflection.Metadata.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.ValueTuple.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Xml.XPath.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\VUCEMM\Vucem_EEA\bin\roslyn\vbc.exe
+C:\VUCEMM\Vucem_EEA\bin\roslyn\vbc.exe.config
+C:\VUCEMM\Vucem_EEA\bin\roslyn\vbc.rsp
+C:\VUCEMM\Vucem_EEA\bin\roslyn\VBCSCompiler.exe
+C:\VUCEMM\Vucem_EEA\bin\roslyn\VBCSCompiler.exe.config
+C:\VUCEMM\Vucem_EEA\bin\AjaxControlToolkit.dll
+C:\VUCEMM\Vucem_EEA\bin\Antlr3.Runtime.dll
+C:\VUCEMM\Vucem_EEA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\VUCEMM\Vucem_EEA\bin\AspNet.ScriptManager.jQuery.dll
+C:\VUCEMM\Vucem_EEA\bin\Business_.dll
+C:\VUCEMM\Vucem_EEA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\VUCEMM\Vucem_EEA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\VUCEMM\Vucem_EEA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\VUCEMM\Vucem_EEA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\VUCEMM\Vucem_EEA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\VUCEMM\Vucem_EEA\bin\Microsoft.Web.Infrastructure.dll
+C:\VUCEMM\Vucem_EEA\bin\Newtonsoft.Json.dll
+C:\VUCEMM\Vucem_EEA\bin\System.Web.Optimization.dll
+C:\VUCEMM\Vucem_EEA\bin\UserModels.dll
+C:\VUCEMM\Vucem_EEA\bin\WebGrease.dll
+C:\VUCEMM\Vucem_EEA\bin\Business_.pdb
+C:\VUCEMM\Vucem_EEA\bin\UserModels.pdb
+C:\VUCEMM\Vucem_EEA\bin\System.Web.Optimization.xml
+C:\VUCEMM\Vucem_EEA\bin\Newtonsoft.Json.xml
+C:\VUCEMM\Vucem_EEA\bin\Antlr3.Runtime.pdb
+C:\VUCEMM\Vucem_EEA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\VUCEMM\Vucem_EEA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\VUCEMM\Vucem_EEA\bin\es\System.Web.Optimization.resources.dll
+C:\VUCEMM\Vucem_EEA\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\VUCEMM\Vucem_EEA\obj\Debug\Vucem_EEA.csproj.CopyComplete
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Vucem_EEA.dll.config
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Vucem_EEA.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Vucem_EEA.pdb
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\csc.exe
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\csc.exe.config
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\csc.rsp
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\csi.exe
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\csi.exe.config
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\csi.rsp
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.AppContext.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Console.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.IO.Compression.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Net.Http.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Net.Sockets.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.ValueTuple.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\vbc.exe
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\vbc.exe.config
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\vbc.rsp
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\VBCSCompiler.exe
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Antlr3.Runtime.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Business_.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Newtonsoft.Json.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\System.Web.Optimization.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\UserModels.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\WebGrease.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Business_.pdb
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\UserModels.pdb
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\System.Web.Optimization.xml
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Newtonsoft.Json.xml
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Antlr3.Runtime.pdb
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\es\System.Web.Optimization.resources.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\obj\Debug\Vucem_EEA.csproj.AssemblyReference.cache
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\obj\Debug\Vucem_EEA.csproj.CoreCompileInputs.cache
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\obj\Debug\Vucem_EEA.csproj.CopyComplete
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\obj\Debug\Vucem_EEA.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\obj\Debug\Vucem_EEA.pdb
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Vucem_EEA.dll.config
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Vucem_EEA.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Vucem_EEA.pdb
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\csc.exe
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\csc.exe.config
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\csc.rsp
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\csi.exe
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\csi.exe.config
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\csi.rsp
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.AppContext.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Console.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.IO.Compression.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Net.Http.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Net.Sockets.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.ValueTuple.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\vbc.exe
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\vbc.exe.config
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\vbc.rsp
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\VBCSCompiler.exe
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Antlr3.Runtime.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Business_.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Newtonsoft.Json.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\System.Web.Optimization.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\UserModels.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\WebGrease.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Business_.pdb
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\UserModels.pdb
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\System.Web.Optimization.xml
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Newtonsoft.Json.xml
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Antlr3.Runtime.pdb
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\es\System.Web.Optimization.resources.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\obj\Debug\Vucem_EEA.csproj.AssemblyReference.cache
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\obj\Debug\Vucem_EEA.csproj.CoreCompileInputs.cache
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\obj\Debug\Vucem_EEA.csproj.CopyComplete
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\obj\Debug\Vucem_EEA.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Vucem_EEA\obj\Debug\Vucem_EEA.pdb

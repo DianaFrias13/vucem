@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ebd0df4a-0ab6-43fe-97af-9c861ab94373": {
+      "ProjectGuid": "ebd0df4a-0ab6-43fe-97af-9c861ab94373",
+      "DisplayName": "Business_",
+      "ColorIndex": 0
+    },
+    "0f0da527-1cf6-43ee-baa0-85e9c01e329b": {
+      "ProjectGuid": "0f0da527-1cf6-43ee-baa0-85e9c01e329b",
+      "DisplayName": "UserModels",
+      "ColorIndex": 1
+    },
+    "fb0e7669-faba-4645-b976-7f447dc8f2b2": {
+      "ProjectGuid": "fb0e7669-faba-4645-b976-7f447dc8f2b2",
+      "DisplayName": "Vucem_EEA",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

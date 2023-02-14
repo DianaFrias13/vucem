@@ -1,0 +1,30 @@
+C:\vucemDiana\VUCEMcode\UserModels\bin\Debug\UserModels.dll
+C:\vucemDiana\VUCEMcode\UserModels\bin\Debug\UserModels.pdb
+C:\vucemDiana\VUCEMcode\UserModels\obj\Debug\UserModels.csprojAssemblyReference.cache
+C:\vucemDiana\VUCEMcode\UserModels\obj\Debug\UserModels.csproj.CoreCompileInputs.cache
+C:\vucemDiana\VUCEMcode\UserModels\obj\Debug\UserModels.dll
+C:\vucemDiana\VUCEMcode\UserModels\obj\Debug\UserModels.pdb
+C:\GSC ESTADÍAS\GITHUB VUCEM\UserModels\bin\Debug\UserModels.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\UserModels\bin\Debug\UserModels.pdb
+C:\GSC ESTADÍAS\GITHUB VUCEM\UserModels\obj\Debug\UserModels.csprojAssemblyReference.cache
+C:\GSC ESTADÍAS\GITHUB VUCEM\UserModels\obj\Debug\UserModels.csproj.CoreCompileInputs.cache
+C:\GSC ESTADÍAS\GITHUB VUCEM\UserModels\obj\Debug\UserModels.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\UserModels\obj\Debug\UserModels.pdb
+C:\VUCEMM\UserModels\bin\Debug\UserModels.dll
+C:\VUCEMM\UserModels\bin\Debug\UserModels.pdb
+C:\VUCEMM\UserModels\obj\Debug\UserModels.csprojAssemblyReference.cache
+C:\VUCEMM\UserModels\obj\Debug\UserModels.csproj.CoreCompileInputs.cache
+C:\VUCEMM\UserModels\obj\Debug\UserModels.dll
+C:\VUCEMM\UserModels\obj\Debug\UserModels.pdb
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\UserModels\bin\Debug\UserModels.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\UserModels\bin\Debug\UserModels.pdb
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\UserModels\obj\Debug\UserModels.csproj.AssemblyReference.cache
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\UserModels\obj\Debug\UserModels.csproj.CoreCompileInputs.cache
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\UserModels\obj\Debug\UserModels.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\UserModels\obj\Debug\UserModels.pdb
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\UserModels\bin\Debug\UserModels.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\UserModels\bin\Debug\UserModels.pdb
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\UserModels\obj\Debug\UserModels.csproj.AssemblyReference.cache
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\UserModels\obj\Debug\UserModels.csproj.CoreCompileInputs.cache
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\UserModels\obj\Debug\UserModels.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\UserModels\obj\Debug\UserModels.pdb

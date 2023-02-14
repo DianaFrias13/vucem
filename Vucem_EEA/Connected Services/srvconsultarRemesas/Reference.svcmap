@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="7514d0db-d635-43c4-8815-23ee23ac2a3e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://www.ventanillaunica.gob.mx/ventanilla-ws-pedimentos/ConsultarRemesasService?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ConsultarRemesasService.xsd" MetadataType="Schema" ID="d623fdc9-7e7c-4452-96bb-2b345dba1ced" SourceId="1" SourceUrl="https://www.ventanillaunica.gob.mx/ventanilla-ws-pedimentos/ConsultarRemesasService?xsd=4" />
+    <MetadataFile FileName="ConsultarRemesasService1.xsd" MetadataType="Schema" ID="465b8278-c0b8-415e-a5c4-40633c122875" SourceId="1" SourceUrl="https://www.ventanillaunica.gob.mx/ventanilla-ws-pedimentos/ConsultarRemesasService?xsd=3" />
+    <MetadataFile FileName="ConsultarRemesasService.wsdl" MetadataType="Wsdl" ID="6d370f42-9dfd-4557-81c0-a4a785f9f018" SourceId="1" SourceUrl="https://www.ventanillaunica.gob.mx/ventanilla-ws-pedimentos/ConsultarRemesasService?wsdl" />
+    <MetadataFile FileName="ConsultarRemesasService2.xsd" MetadataType="Schema" ID="a0ac0e67-4419-4eff-b1cc-ffbd999b9c04" SourceId="1" SourceUrl="https://www.ventanillaunica.gob.mx/ventanilla-ws-pedimentos/ConsultarRemesasService?xsd=1" />
+    <MetadataFile FileName="ConsultarRemesasService3.xsd" MetadataType="Schema" ID="22c76091-0819-466d-bd08-67f06db9b142" SourceId="1" SourceUrl="https://www.ventanillaunica.gob.mx/ventanilla-ws-pedimentos/ConsultarRemesasService?xsd=2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:res="http://www.ventanillaunica.gob.mx/common/ws/oxml/respuesta" xmlns:tns="http://www.ventanillaunica.gob.mx/pedimentos/ws/oxml/consultarremesas" xmlns:oxml="http://www.ventanillaunica.gob.mx/pedimentos/ws/oxml/comunes" elementFormDefault="qualified" targetNamespace="http://www.ventanillaunica.gob.mx/pedimentos/ws/oxml/consultarremesas" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:import schemaLocation="https://www.ventanillaunica.gob.mx:443/ventanilla-ws-pedimentos/ConsultarRemesasService?xsd=3" namespace="http://www.ventanillaunica.gob.mx/pedimentos/ws/oxml/comunes" />
+  <xsd:import schemaLocation="https://www.ventanillaunica.gob.mx:443/ventanilla-ws-pedimentos/ConsultarRemesasService?xsd=1" namespace="http://www.ventanillaunica.gob.mx/common/ws/oxml/respuesta" />
+  <xsd:complexType name="Remesa">
+    <xsd:annotation>
+      <xsd:documentation>
+				Datos de la remesa
+			</xsd:documentation>
+    </xsd:annotation>
+    <xsd:sequence>
+      <xsd:element name="comprobanteVE">
+        <xsd:annotation>
+          <xsd:documentation>comprobante</xsd:documentation>
+        </xsd:annotation>
+        <xsd:simpleType>
+          <xsd:restriction base="xsd:string">
+            <xsd:maxLength value="13" />
+            <xsd:whiteSpace value="collapse" />
+          </xsd:restriction>
+        </xsd:simpleType>
+      </xsd:element>
+      <xsd:element name="remesaAgente">
+        <xsd:annotation>
+          <xsd:documentation />
+        </xsd:annotation>
+        <xsd:simpleType>
+          <xsd:restriction base="xsd:unsignedInt">
+            <xsd:maxExclusive value="9999" />
+            <xsd:whiteSpace value="collapse" />
+          </xsd:restriction>
+        </xsd:simpleType>
+      </xsd:element>
+      <xsd:element name="remesaSA">
+        <xsd:annotation>
+          <xsd:documentation />
+        </xsd:annotation>
+        <xsd:simpleType>
+          <xsd:restriction base="xsd:unsignedInt">
+            <xsd:maxExclusive value="9999" />
+            <xsd:whiteSpace value="collapse" />
+          </xsd:restriction>
+        </xsd:simpleType>
+      </xsd:element>
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="ConsultarRemesasPeticion">
+    <xsd:annotation>
+      <xsd:documentation />
+    </xsd:annotation>
+    <xsd:sequence>
+      <xsd:element minOccurs="1" name="numeroOperacion" type="xsd:long" />
+      <xsd:element name="peticion" type="oxml:Peticion" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="ConsultarRemesasRespuesta">
+    <xsd:annotation>
+      <xsd:documentation>
+				respuesta de la peticion. contiene la lista de
+				remesas
+			</xsd:documentation>
+    </xsd:annotation>
+    <xsd:complexContent mixed="false">
+      <xsd:extension base="res:RespuestaBase">
+        <xsd:sequence>
+          <xsd:element maxOccurs="unbounded" name="remesas" type="tns:Remesa" />
+        </xsd:sequence>
+      </xsd:extension>
+    </xsd:complexContent>
+  </xsd:complexType>
+  <xsd:element name="consultarRemesasPeticion" type="tns:ConsultarRemesasPeticion" />
+  <xsd:element name="consultarRemesasRespuesta" type="tns:ConsultarRemesasRespuesta" />
+</xsd:schema>

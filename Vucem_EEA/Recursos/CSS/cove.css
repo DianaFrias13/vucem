@@ -1,0 +1,153 @@
+﻿
+#cove {
+/*    border-collapse: collapse;
+*/    width: 100%;
+    align-content:center;
+    align-items:flex-end;
+    vertical-align:central;
+}
+
+    #cove td, #cove th {
+        border: 1px solid white;
+        padding: 8px;
+    }
+   /* #cove tr:nth-child(even) {
+        background-color: #f2f2f2;
+          border: 1px solid white;
+    }*/
+
+    /*#cove tr:hover {
+        background-color: #ddd;
+    }*/
+
+    #cove th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #646469;
+        color: white;
+    }
+
+
+
+
+
+
+
+#container {
+    width: 700px;
+    margin: 10px auto;
+    vertical-align:central;
+}
+
+.mGrid {
+    background-color: #fff;
+    margin: 5px 0 10px 0;
+    border: solid 1px var(--hover-primary) !important;
+    font-family: Arial, Helvetica, sans-serif;
+/*    border-collapse: collapse;
+*/    width: 100%;
+    align-content: center;
+    align-items: flex-end;
+    vertical-align: central;
+}
+
+    .mGrid td {
+        border: 1px solid #c0c0c0;
+        padding: 8px;
+        
+       
+    }
+
+    .mGrid th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: center;
+        border: 1px solid #c0c0c0;
+        background-color: var(--btn-primary-color) !important;
+        color: white;
+    }
+        
+/*.mGrid tr:nth-child(even) {
+    background-color: #f2f2f2;
+}*/
+
+/*.mGrid tr:hover {
+    background-color: #ddd;
+}*/
+
+    .mGrid .alt {
+        background: #fcfcfc url(grd_alt.png) repeat-x top;
+    }
+
+    .mGrid .pgr {
+        background: #424242 url(grd_pgr.png) repeat-x top;
+    }
+
+        .mGrid .pgr table {
+            margin: 5px 0;
+        }
+
+        .mGrid .pgr td {
+            border-width: 0;
+            padding: 0 6px;
+            border-left: solid 1px #666;
+            font-weight: bold;
+            color: #fff;
+            line-height: 12px;
+        }
+
+        .mGrid .pgr a {
+            color: #666;
+            text-decoration: none;
+        }
+
+            /*.mGrid .pgr a:hover {
+                color: #ddd;
+                text-decoration: none;
+            }*/
+    .mGrid tr:hover {
+        background-color: white ;
+    }
+    .mGrid tr:nth-child(even) {
+        background-color: white;
+    }
+.GridPager a,
+.GridPager span {
+    display: inline-block;
+    padding: 0px 9px;
+    margin-right: 4px;
+    border-radius: 3px;
+    border: solid 1px #c0c0c0;
+    background: #e9e9e9;
+    box-shadow: inset 0px 1px 0px rgba(255,255,255, .8), 0px 1px 3px rgba(0,0,0, .1);
+    font-size: .875em;
+    font-weight: bold;
+    text-decoration: none;
+    color: #717171 !important;
+    text-shadow: 0px 1px 0px rgba(255,255,255, 1);
+}
+
+.GridPager a {
+    background-color: #f5f5f5 !important;
+    color: #969696 !important;
+    border: 1px solid #969696;
+}
+
+.GridPager span {
+    background: #4caf50 !important;
+    box-shadow: inset 0px 0px 8px rgba(0,0,0, .5), 0px 1px 0px rgba(255,255,255, .8);
+    color: #f0f0f0 !important;
+    text-shadow: 0px 0px 3px rgba(0,0,0, .5);
+    border: 1px solid #4caf50 !important;
+}
+.pagination-ys table > tbody > tr > td > a, .pagination-ys table > tbody > tr > td > span {
+    position: relative;
+    float: left;
+    padding: 8px 12px;
+    line-height: 1.42857143;
+    text-decoration: none;
+    background-color: #ffffff;
+    margin-left: -1px;
+    color: var(--btn-primary-color);
+}

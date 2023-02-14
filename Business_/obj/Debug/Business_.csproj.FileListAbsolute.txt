@@ -1,0 +1,45 @@
+C:\vucemDiana\VUCEMcode\Business_\bin\Debug\Business_.dll
+C:\vucemDiana\VUCEMcode\Business_\bin\Debug\Business_.pdb
+C:\vucemDiana\VUCEMcode\Business_\bin\Debug\UserModels.dll
+C:\vucemDiana\VUCEMcode\Business_\bin\Debug\UserModels.pdb
+C:\vucemDiana\VUCEMcode\Business_\obj\Debug\Business_.csprojAssemblyReference.cache
+C:\vucemDiana\VUCEMcode\Business_\obj\Debug\Business_.csproj.CoreCompileInputs.cache
+C:\vucemDiana\VUCEMcode\Business_\obj\Debug\Business_.csproj.CopyComplete
+C:\vucemDiana\VUCEMcode\Business_\obj\Debug\Business_.dll
+C:\vucemDiana\VUCEMcode\Business_\obj\Debug\Business_.pdb
+C:\GSC ESTADÍAS\GITHUB VUCEM\Business_\obj\Debug\Business_.csprojAssemblyReference.cache
+C:\GSC ESTADÍAS\GITHUB VUCEM\Business_\obj\Debug\Business_.csproj.CoreCompileInputs.cache
+C:\GSC ESTADÍAS\GITHUB VUCEM\Business_\obj\Debug\Business_.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Business_\obj\Debug\Business_.pdb
+C:\GSC ESTADÍAS\GITHUB VUCEM\Business_\bin\Debug\Business_.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Business_\bin\Debug\Business_.pdb
+C:\GSC ESTADÍAS\GITHUB VUCEM\Business_\bin\Debug\UserModels.dll
+C:\GSC ESTADÍAS\GITHUB VUCEM\Business_\bin\Debug\UserModels.pdb
+C:\GSC ESTADÍAS\GITHUB VUCEM\Business_\obj\Debug\Business_.csproj.CopyComplete
+C:\VUCEMM\Business_\bin\Debug\Business_.dll
+C:\VUCEMM\Business_\bin\Debug\Business_.pdb
+C:\VUCEMM\Business_\obj\Debug\Business_.csprojAssemblyReference.cache
+C:\VUCEMM\Business_\obj\Debug\Business_.csproj.CoreCompileInputs.cache
+C:\VUCEMM\Business_\obj\Debug\Business_.csproj.CopyComplete
+C:\VUCEMM\Business_\obj\Debug\Business_.dll
+C:\VUCEMM\Business_\obj\Debug\Business_.pdb
+C:\VUCEMM\Business_\bin\Debug\UserModels.dll
+C:\VUCEMM\Business_\bin\Debug\UserModels.pdb
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Business_\bin\Debug\Business_.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Business_\bin\Debug\Business_.pdb
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Business_\bin\Debug\UserModels.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Business_\bin\Debug\UserModels.pdb
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Business_\obj\Debug\Business_.csproj.AssemblyReference.cache
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Business_\obj\Debug\Business_.csproj.CoreCompileInputs.cache
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Business_\obj\Debug\Business_.csproj.CopyComplete
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Business_\obj\Debug\Business_.dll
+C:\Users\diana\OneDrive\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Business_\obj\Debug\Business_.pdb
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Business_\bin\Debug\Business_.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Business_\bin\Debug\Business_.pdb
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Business_\bin\Debug\UserModels.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Business_\bin\Debug\UserModels.pdb
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Business_\obj\Debug\Business_.csproj.AssemblyReference.cache
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Business_\obj\Debug\Business_.csproj.CoreCompileInputs.cache
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Business_\obj\Debug\Business_.csproj.CopyComplete
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Business_\obj\Debug\Business_.dll
+C:\Users\diana\OneDrive\Datos adjuntos\Desktop\VUCEMM-20220223T204438Z-001\VUCEMM\Business_\obj\Debug\Business_.pdb
